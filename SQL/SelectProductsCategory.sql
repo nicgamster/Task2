@@ -9,3 +9,11 @@ LEFT JOIN
     Categories c ON pc.CategoryID = c.CategoryID
 ORDER BY 
     p.ProductName, c.CategoryName;
+
+--Вывод:
+-- Apple - Fruits
+-- Apple - Sweets
+-- Banana - Fruits
+-- Carrot - Vegetables
+-- Doughnut - Sweets
+-- Shampoo - NULL
