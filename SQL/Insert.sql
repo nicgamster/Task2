@@ -1,4 +1,3 @@
-
 INSERT INTO Products (ProductID, ProductName) VALUES
 (1, 'Apple'),
 (2, 'Banana'),
